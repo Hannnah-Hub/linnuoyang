@@ -1,5 +1,5 @@
 Arduino中的代码 以超声波传感器测试距离为例：
-```C#
+```C++
 #define TRIG_PIN 9  // 触发信号引脚
 #define ECHO_PIN 10 // 回声信号引脚
 
